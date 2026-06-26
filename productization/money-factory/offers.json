@@ -413,6 +413,45 @@
       "monthly_value_usd": 312.0,
       "next_action": "Easy to explain, solves compliance pain for commercial creators.",
       "checkout": "https://gumroad.com/l/comfyui-provenance-pack"
+    },
+    {
+      "slug": "comfyui-xxx-fantasy-portraits",
+      "name": "ComfyUI XXX Fantasy Portraits",
+      "price": "$29 solo / $69 studio",
+      "headline": "Generate fictional fantasy character portraits for consenting-adult artistic projects.",
+      "customer": "Adult creators, fantasy artists, private collectors, romantic-fiction illustrators",
+      "pain": "Fantasy portrait generation lacks consistent prompt structures and safe scaffolding.",
+      "deliverable": "Fantasy portrait workflow bundle, character archetype prompts, lighting templates, buyer safeguards.",
+      "runtime": "Package SDXL-FLUX portrait workflows with consensual-fantasy prompt framework.",
+      "monthly_value_usd": 280.0,
+      "next_action": "Legal-fantasy framing, age-verified buyers only, no real-person likeness.",
+      "checkout": "https://gumroad.com/l/comfyui-xxx-fantasy-portraits"
+    },
+    {
+      "slug": "comfyui-xxx-character-design",
+      "name": "ComfyUI XXX Character Design Kit",
+      "price": "$49 creator / $129 agency",
+      "headline": "Design fictional consenting-adult characters with consistent style pipelines.",
+      "customer": "Romance book cover designers, indie game character artists, fantasy illustrators",
+      "pain": "Character consistency breaks across generations; no reusable prompt templates.",
+      "deliverable": "Character-design workflows, style-preserve templates, archetype prompt library, safeguard docs.",
+      "runtime": "Build LoRA-ready character workflows with fictional framing and batch output.",
+      "monthly_value_usd": 390.0,
+      "next_action": "Focus on fictional character archetypes; include legal framing in all docs.",
+      "checkout": "https://gumroad.com/l/comfyui-xxx-character-design"
+    },
+    {
+      "slug": "comfyui-xxx-storyboard-studio",
+      "name": "ComfyUI XXX Storyboard Studio",
+      "price": "$59 storyteller / $149 studio",
+      "headline": "Turn romantic/narrative scenes into consistent visual storyboards.",
+      "customer": "Erotic fiction authors, indie filmmakers, visual novel creators",
+      "pain": "Storyboarding adult content lacks consistent framing, panel layouts, and scene continuity.",
+      "deliverable": "Multi-panel storyboard workflows, scene transition prompts, cinematic framing templates, legal safeguards.",
+      "runtime": "Package Flux SDXL storyboard flows with character continuity and panel grid exports.",
+      "monthly_value_usd": 420.0,
+      "next_action": "Storyboard + continuity workflow; adult-only verified buyers.",
+      "checkout": "https://gumroad.com/l/comfyui-xxx-storyboard-studio"
     }
   ]
 }
