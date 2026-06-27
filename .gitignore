@@ -1,0 +1,70 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.tox/
+.venv/
+venv/
+env/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data & Runtime
+data/
+logs/
+metrics/
+outputs/
+downloads/
+tmp/
+.cache/
+backups/
+
+# ComfyUI
+ComfyUI/
+ComfyUI/models/
+ComfyUI/input/
+ComfyUI/output/
+ComfyUI/temp/
+
+# Docker
+docker-compose.override.yml
+
+# Large model files
+*.bin
+*.safetensors
+*.gguf
+*.onnx
+*.pt
+*.pth
+
+# Node
+node_modules/
+
+# Build
+dist/
+build/
+*.egg-info/
+
+# Secrets (should be in .env, not committed)
+*.pem
+*.key
+*.crt
