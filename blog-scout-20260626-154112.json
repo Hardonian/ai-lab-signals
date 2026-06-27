@@ -1,0 +1,485 @@
+{
+  "ts": "20260626-154112",
+  "since": "2026-06-23",
+  "db_path": "/home/scott/ai-lab/signals/blogwatcher-cli.db",
+  "article_count": 35,
+  "offer_counts": {
+    "repo-rescue-saas-audit": 5,
+    "local-ai-lab-audit": 15,
+    "apva-roi-benchmark": 5,
+    "comfyui-workflow-packs": 4,
+    "ai-command-center-setup": 4,
+    "automation-retainer": 2
+  },
+  "theme_counts": {
+    "saas-dev": 4,
+    "local-ai-ops": 6,
+    "open-models": 7,
+    "ai-products": 5,
+    "infra": 6,
+    "llm-platforms": 5,
+    "billing": 1,
+    "product-growth": 1
+  },
+  "top_signals": [
+    {
+      "id": 3002,
+      "status": "new",
+      "title": "Four travel and hospitality trends from HITEC 2026",
+      "blog": "Stripe Blog",
+      "url": "https://stripe.com/blog/trends-from-hitec",
+      "published": "2026-06-23",
+      "theme": "billing",
+      "recommended_offer": "repo-rescue-saas-audit",
+      "match_score": 24,
+      "score_details": [
+        {
+          "type": "term",
+          "value": "stripe",
+          "weight": 8
+        },
+        {
+          "type": "theme",
+          "value": "billing",
+          "weight": 8
+        },
+        {
+          "type": "blog",
+          "value": "Stripe Blog",
+          "weight": 8
+        }
+      ],
+      "matched_terms": [
+        "stripe"
+      ],
+      "hook": "Hook 'Four travel and hospitality trends from HITEC 2026' into a paid SaaS repo rescue audit aimed at auth, billing, or deployment fragility."
+    },
+    {
+      "id": 3005,
+      "status": "new",
+      "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+      "blog": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+      "published": "2026-06-24",
+      "theme": "open-models",
+      "recommended_offer": "local-ai-lab-audit",
+      "match_score": 16,
+      "score_details": [
+        {
+          "type": "term",
+          "value": "nvidia",
+          "weight": 7
+        },
+        {
+          "type": "theme",
+          "value": "open-models",
+          "weight": 5
+        },
+        {
+          "type": "blog",
+          "value": "Hugging Face Blog",
+          "weight": 4
+        }
+      ],
+      "matched_terms": [
+        "nvidia"
+      ],
+      "hook": "Use 'Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel' to argue for a verified local AI lab audit with GPU, model, and service proof instead of another vague stack review."
+    },
+    {
+      "id": 3016,
+      "status": "new",
+      "title": "Run a vLLM Server on HF Jobs in One Command",
+      "blog": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/vllm-jobs",
+      "published": "2026-06-26",
+      "theme": "open-models",
+      "recommended_offer": "local-ai-lab-audit",
+      "match_score": 14,
+      "score_details": [
+        {
+          "type": "term",
+          "value": "vllm",
+          "weight": 5
+        },
+        {
+          "type": "theme",
+          "value": "open-models",
+          "weight": 5
+        },
+        {
+          "type": "blog",
+          "value": "Hugging Face Blog",
+          "weight": 4
+        }
+      ],
+      "matched_terms": [
+        "vllm"
+      ],
+      "hook": "Use 'Run a vLLM Server on HF Jobs in One Command' to argue for a verified local AI lab audit with GPU, model, and service proof instead of another vague stack review."
+    },
+    {
+      "id": 3020,
+      "status": "new",
+      "title": "How we built saga rollbacks for Cloudflare Workflows",
+      "blog": "Cloudflare Blog",
+      "url": "https://blog.cloudflare.com/rollbacks-for-workflows/",
+      "published": "2026-06-25",
+      "categories": [
+        "Workflows",
+        "Cloudflare Workers",
+        "Developers"
+      ],
+      "theme": "infra",
+      "recommended_offer": "ai-command-center-setup",
+      "match_score": 13,
+      "score_details": [
+        {
+          "type": "term",
+          "value": "workflows",
+          "weight": 4
+        },
+        {
+          "type": "theme",
+          "value": "infra",
+          "weight": 5
+        },
+        {
+          "type": "blog",
+          "value": "Cloudflare Blog",
+          "weight": 4
+        }
+      ],
+      "matched_terms": [
+        "workflows"
+      ],
+      "hook": "Turn 'How we built saga rollbacks for Cloudflare Workflows' into an operator-dashboard pitch: one control plane for health, routing, alerts, and next actions."
+    },
+    {
+      "id": 3017,
+      "status": "new",
+      "title": "Which tokens does a hybrid model predict better?",
+      "blog": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+      "published": "2026-06-25",
+      "theme": "open-models",
+      "recommended_offer": "apva-roi-benchmark",
+      "match_score": 11,
+      "score_details": [
+        {
+          "type": "term",
+          "value": "token",
+          "weight": 3
+        },
+        {
+          "type": "theme",
+          "value": "open-models",
+          "weight": 4
+        },
+        {
+          "type": "blog",
+          "value": "Hugging Face Blog",
+          "weight": 4
+        }
+      ],
+      "matched_terms": [
+        "token"
+      ],
+      "hook": "Use 'Which tokens does a hybrid model predict better?' as the wedge for an ROI benchmark: what improved, what regressed, and whether the workflow is worth scaling."
+    },
+    {
+      "id": 3024,
+      "status": "new",
+      "title": "Every (Agents) Connection to Railway",
+      "blog": "Railway Blog",
+      "url": "https://blog.railway.com/p/agent-connection-to-railway",
+      "published": "2026-06-26",
+      "categories": [
+        "railway",
+        "cloud"
+      ],
+      "theme": "saas-dev",
+      "recommended_offer": "repo-rescue-saas-audit",
+      "match_score": 10,
+      "score_details": [
+        {
+          "type": "theme",
+          "value": "saas-dev",
+          "weight": 5
+        },
+        {
+          "type": "blog",
+          "value": "Railway Blog",
+          "weight": 5
+        }
+      ],
+      "matched_terms": [],
+      "hook": "Hook 'Every (Agents) Connection to Railway' into a paid SaaS repo rescue audit aimed at auth, billing, or deployment fragility."
+    },
+    {
+      "id": 3010,
+      "status": "new",
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "blog": "OpenAI News",
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "published": "2026-06-24",
+      "categories": [
+        "Company"
+      ],
+      "theme": "llm-platforms",
+      "recommended_offer": "local-ai-lab-audit",
+      "match_score": 10,
+      "score_details": [
+        {
+          "type": "term",
+          "value": "inference",
+          "weight": 5
+        },
+        {
+          "type": "theme",
+          "value": "llm-platforms",
+          "weight": 3
+        },
+        {
+          "type": "blog",
+          "value": "OpenAI News",
+          "weight": 2
+        }
+      ],
+      "matched_terms": [
+        "inference"
+      ],
+      "hook": "Use 'OpenAI and Broadcom unveil LLM-optimized inference chip' to argue for a verified local AI lab audit with GPU, model, and service proof instead of another vague stack review."
+    },
+    {
+      "id": 3009,
+      "status": "new",
+      "title": "Agents in the Sandbox",
+      "blog": "Railway Blog",
+      "url": "https://blog.railway.com/p/agents-in-the-sandbox",
+      "published": "2026-06-24",
+      "categories": [
+        "railway",
+        "cloud"
+      ],
+      "theme": "saas-dev",
+      "recommended_offer": "repo-rescue-saas-audit",
+      "match_score": 10,
+      "score_details": [
+        {
+          "type": "theme",
+          "value": "saas-dev",
+          "weight": 5
+        },
+        {
+          "type": "blog",
+          "value": "Railway Blog",
+          "weight": 5
+        }
+      ],
+      "matched_terms": [],
+      "hook": "Hook 'Agents in the Sandbox' into a paid SaaS repo rescue audit aimed at auth, billing, or deployment fragility."
+    },
+    {
+      "id": 2999,
+      "status": "new",
+      "title": "State of Railway: Agents",
+      "blog": "Railway Blog",
+      "url": "https://blog.railway.com/p/state-of-railway-agents",
+      "published": "2026-06-23",
+      "categories": [
+        "railway",
+        "cloud"
+      ],
+      "theme": "saas-dev",
+      "recommended_offer": "repo-rescue-saas-audit",
+      "match_score": 10,
+      "score_details": [
+        {
+          "type": "theme",
+          "value": "saas-dev",
+          "weight": 5
+        },
+        {
+          "type": "blog",
+          "value": "Railway Blog",
+          "weight": 5
+        }
+      ],
+      "matched_terms": [],
+      "hook": "Hook 'State of Railway: Agents' into a paid SaaS repo rescue audit aimed at auth, billing, or deployment fragility."
+    },
+    {
+      "id": 3014,
+      "status": "new",
+      "title": "How agents are transforming work",
+      "blog": "OpenAI News",
+      "url": "https://openai.com/index/how-agents-are-transforming-work",
+      "published": "2026-06-25",
+      "categories": [
+        "Company"
+      ],
+      "theme": "llm-platforms",
+      "recommended_offer": "apva-roi-benchmark",
+      "match_score": 9,
+      "score_details": [
+        {
+          "type": "theme",
+          "value": "llm-platforms",
+          "weight": 5
+        },
+        {
+          "type": "blog",
+          "value": "OpenAI News",
+          "weight": 4
+        }
+      ],
+      "matched_terms": [],
+      "hook": "Use 'How agents are transforming work' as the wedge for an ROI benchmark: what improved, what regressed, and whether the workflow is worth scaling."
+    },
+    {
+      "id": 3021,
+      "status": "new",
+      "title": "Functions redesigned for agents",
+      "blog": "Netlify Changelog",
+      "url": "https://www.netlify.com/changelog/2026-06-25-functions-redesigned-for-agents/",
+      "published": "2026-06-25",
+      "theme": "saas-dev",
+      "recommended_offer": "repo-rescue-saas-audit",
+      "match_score": 9,
+      "score_details": [
+        {
+          "type": "theme",
+          "value": "saas-dev",
+          "weight": 5
+        },
+        {
+          "type": "blog",
+          "value": "Netlify Changelog",
+          "weight": 4
+        }
+      ],
+      "matched_terms": [],
+      "hook": "Hook 'Functions redesigned for agents' into a paid SaaS repo rescue audit aimed at auth, billing, or deployment fragility."
+    },
+    {
+      "id": 3008,
+      "status": "new",
+      "title": "Unlocking the Cloudflare app ecosystem with OAuth for all",
+      "blog": "Cloudflare Blog",
+      "url": "https://blog.cloudflare.com/oauth-for-all/",
+      "published": "2026-06-24",
+      "categories": [
+        "Developers",
+        "API",
+        "Security",
+        "OAuth",
+        "Developer Platform",
+        "Agents",
+        "Product News",
+        "Cloudflare Media Platform",
+        "Identity"
+      ],
+      "theme": "infra",
+      "recommended_offer": "ai-command-center-setup",
+      "match_score": 9,
+      "score_details": [
+        {
+          "type": "theme",
+          "value": "infra",
+          "weight": 5
+        },
+        {
+          "type": "blog",
+          "value": "Cloudflare Blog",
+          "weight": 4
+        }
+      ],
+      "matched_terms": [],
+      "hook": "Turn 'Unlocking the Cloudflare app ecosystem with OAuth for all' into an operator-dashboard pitch: one control plane for health, routing, alerts, and next actions."
+    },
+    {
+      "id": 3006,
+      "status": "new",
+      "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+      "blog": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/ffasr-leaderboard",
+      "published": "2026-06-24",
+      "theme": "open-models",
+      "recommended_offer": "local-ai-lab-audit",
+      "match_score": 9,
+      "score_details": [
+        {
+          "type": "theme",
+          "value": "open-models",
+          "weight": 5
+        },
+        {
+          "type": "blog",
+          "value": "Hugging Face Blog",
+          "weight": 4
+        }
+      ],
+      "matched_terms": [],
+      "hook": "Use 'Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World' to argue for a verified local AI lab audit with GPU, model, and service proof instead of another vague stack review."
+    },
+    {
+      "id": 2996,
+      "status": "new",
+      "title": "The post-quantum EO is an important milestone. Now it’s time to get to work",
+      "blog": "Cloudflare Blog",
+      "url": "https://blog.cloudflare.com/post-quantum-eo-2026/",
+      "published": "2026-06-23",
+      "categories": [
+        "Post-Quantum",
+        "Security",
+        "Cryptography",
+        "Policy & Legal",
+        "Government Innovation",
+        "Impact"
+      ],
+      "theme": "infra",
+      "recommended_offer": "ai-command-center-setup",
+      "match_score": 9,
+      "score_details": [
+        {
+          "type": "theme",
+          "value": "infra",
+          "weight": 5
+        },
+        {
+          "type": "blog",
+          "value": "Cloudflare Blog",
+          "weight": 4
+        }
+      ],
+      "matched_terms": [],
+      "hook": "Turn 'The post-quantum EO is an important milestone. Now it’s time to get to work' into an operator-dashboard pitch: one control plane for health, routing, alerts, and next actions."
+    },
+    {
+      "id": 2980,
+      "status": "new",
+      "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+      "blog": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+      "published": "2026-06-23",
+      "theme": "open-models",
+      "recommended_offer": "local-ai-lab-audit",
+      "match_score": 9,
+      "score_details": [
+        {
+          "type": "theme",
+          "value": "open-models",
+          "weight": 5
+        },
+        {
+          "type": "blog",
+          "value": "Hugging Face Blog",
+          "weight": 4
+        }
+      ],
+      "matched_terms": [],
+      "hook": "Use 'Shipping huggingface_hub every week with AI, open tools, and a human in the loop' to argue for a verified local AI lab audit with GPU, model, and service proof instead of another vague stack review."
+    }
+  ]
+}

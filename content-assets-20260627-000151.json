@@ -1,0 +1,39 @@
+{
+  "ts": "20260627-000151",
+  "asset_count": 3,
+  "packs": [
+    {
+      "offer": "repo-rescue-saas-audit",
+      "offer_name": "SaaS Repo Rescue Audit",
+      "source_signal": "Four travel and hospitality trends from HITEC 2026",
+      "x_draft": "Fresh signal: Four travel and hospitality trends from HITEC 2026. Teams call this a shipping problem. It's usually an auth, billing, or deploy integrity problem. That's exactly what a paid repo rescue audit is for.",
+      "landing_hook": "SaaS Repo Rescue Audit: find the auth, billing, webhook, and deploy faults hiding behind signals like 'Four travel and hospitality trends from HITEC 2026'.",
+      "landing_snippet": "SaaS Repo Rescue Audit: turn 'Four travel and hospitality trends from HITEC 2026' into a verified auth/billing/deploy risk matrix. Send repo or prod incident trail. First response is the matrix, not a sales call.",
+      "audit_cta": "Offer: SaaS Repo Rescue Audit at $499 audit / $1500 fix sprint. CTA: send the repo or prod incident trail and get the risk matrix first.",
+      "reply_angle": "Reply angle: tie 'Four travel and hospitality trends from HITEC 2026' to the hidden auth/billing/deploy failure mode, then mention the audit as the faster proof path.",
+      "email_draft": "Subject: Quick angle off: Four travel and hospitality trends from HITEC 2026\n\nRe: Four travel and hospitality trends from HITEC 2026\n\nSaaS Repo Rescue Audit is the actual fix for this pattern, not another roadmap doc.\n\nQuick path: send the repo/incident trail or stack layout. I'll return the risk matrix or operator brief first.\n\nIf useful, I can ship this as a PDF brief by end of day.\n\nNo pitch deck. No calendar link required."
+    },
+    {
+      "offer": "apva-roi-benchmark",
+      "offer_name": "APVA AI ROI Benchmark",
+      "source_signal": "Which tokens does a hybrid model predict better?",
+      "x_draft": "Fresh signal: Which tokens does a hybrid model predict better?. Everyone says AI helped. Almost nobody measures whether it survived verification. That's the wedge for an APVA ROI benchmark.",
+      "landing_hook": "APVA AI ROI Benchmark: measure whether workflows inspired by 'Which tokens does a hybrid model predict better?' actually save time after verification and rework.",
+      "landing_snippet": "APVA AI ROI Benchmark: use 'Which tokens does a hybrid model predict better?' as the benchmark case. Send one AI workflow, get a reliability-adjusted ROI score first.",
+      "audit_cta": "Offer: APVA AI ROI Benchmark at $199 self-serve / $799 team benchmark. CTA: send one AI workflow and get a reliability-adjusted ROI score first.",
+      "reply_angle": "Reply angle: agree the workflow looks promising, then ask whether anyone measured reliability-adjusted time saved after verification.",
+      "email_draft": "Subject: Quick angle off: Which tokens does a hybrid model predict better?\n\nRe: Which tokens does a hybrid model predict better?\n\nAPVA AI ROI Benchmark is the actual fix for this pattern, not another roadmap doc.\n\nQuick path: send the repo/incident trail or stack layout. I'll return the risk matrix or operator brief first.\n\nIf useful, I can ship this as a PDF brief by end of day.\n\nNo pitch deck. No calendar link required."
+    },
+    {
+      "offer": "local-ai-lab-audit",
+      "offer_name": "Local AI Lab Audit",
+      "source_signal": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+      "x_draft": "Fresh signal: Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel. Local AI stacks drift fast: models sprawl, services lie, GPUs look healthy until they don't. That's why the audit sells.",
+      "landing_hook": "Local AI Lab Audit: turn signals like 'Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel' into a verified GPU, model, and service fix plan.",
+      "landing_snippet": "Local AI Lab Audit: use 'Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel' to justify a same-day GPU, model, and service audit. Send stack layout; get the operator brief first.",
+      "audit_cta": "Offer: Local AI Lab Audit at $499 fixed / $997 with implementation day. CTA: send the stack layout and get the operator brief first.",
+      "reply_angle": "Reply angle: point out the operational blind spot behind 'Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel', then mention the lab audit as the fastest way to surface it.",
+      "email_draft": "Subject: Quick angle off: Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel\n\nRe: Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel\n\nLocal AI Lab Audit is the actual fix for this pattern, not another roadmap doc.\n\nQuick path: send the repo/incident trail or stack layout. I'll return the risk matrix or operator brief first.\n\nIf useful, I can ship this as a PDF brief by end of day.\n\nNo pitch deck. No calendar link required."
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "ts": "20260624-231329",
+  "signal_ts": "20260624-231119",
+  "rankings": [
+    {
+      "offer": "repo-rescue-saas-audit",
+      "name": "SaaS Repo Rescue Audit",
+      "score": 3135.8,
+      "signal_count": 5,
+      "confidence_score": 72.0,
+      "strongest_signal": 24.0,
+      "price": "$499 audit / $1500 fix sprint",
+      "headline": "Find the auth, billing, RLS, webhook, and deployment bugs before customers do.",
+      "target_customer": "Solo SaaS founders and vibe-coded startups with Next.js/Supabase/Stripe repos",
+      "next_action": "Use Hermes repo-fix mode and dashboard verification ledger as proof trail.",
+      "sample_signals": [
+        {
+          "title": "Four travel and hospitality trends from HITEC 2026",
+          "blog": "Stripe Blog",
+          "theme": "billing",
+          "url": "https://stripe.com/blog/trends-from-hitec",
+          "hook": "Hook 'Four travel and hospitality trends from HITEC 2026' into a paid SaaS repo rescue audit aimed at auth, billing, or deployment fragility.",
+          "match_score": 24
+        },
+        {
+          "title": "SAML provisioning upgrades for assigning default roles",
+          "blog": "Netlify Changelog",
+          "theme": "saas-dev",
+          "url": "https://www.netlify.com/changelog/2026-06-22-saml-provisioning-role-options/",
+          "hook": "Hook 'SAML provisioning upgrades for assigning default roles' into a paid SaaS repo rescue audit aimed at auth, billing, or deployment fragility.",
+          "match_score": 16
+        },
+        {
+          "title": "Preview data changes in Netlify Database",
+          "blog": "Netlify Changelog",
+          "theme": "saas-dev",
+          "url": "https://www.netlify.com/changelog/2026-06-22-preview-data-changes-netlify-database/",
+          "hook": "Hook 'Preview data changes in Netlify Database' into a paid SaaS repo rescue audit aimed at auth, billing, or deployment fragility.",
+          "match_score": 12
+        }
+      ]
+    },
+    {
+      "offer": "apva-roi-benchmark",
+      "name": "APVA AI ROI Benchmark",
+      "score": 2244.2,
+      "signal_count": 3,
+      "confidence_score": 27.0,
+      "strongest_signal": 9.0,
+      "price": "$199 self-serve / $799 team benchmark",
+      "headline": "Stop guessing whether AI saves time. Measure True Value Yield.",
+      "target_customer": "Teams adopting AI tools, founders, ops leads, educators, AI consultants",
+      "next_action": "Package sample workflow ROI reports and use as lead magnet.",
+      "sample_signals": [
+        {
+          "title": "How Omio is building the future of conversational travel",
+          "blog": "OpenAI News",
+          "theme": "llm-platforms",
+          "url": "https://openai.com/index/omio",
+          "hook": "Use 'How Omio is building the future of conversational travel' as the wedge for an ROI benchmark: what improved, what regressed, and whether the workflow is worth scaling.",
+          "match_score": 9
+        },
+        {
+          "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+          "blog": "OpenAI News",
+          "theme": "llm-platforms",
+          "url": "https://openai.com/index/gpt-5-immunology-mystery",
+          "hook": "Use 'How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery' as the wedge for an ROI benchmark: what improved, what regressed, and whether the workflow is worth scaling.",
+          "match_score": 9
+        },
+        {
+          "title": "Helping build shared standards for advanced AI",
+          "blog": "OpenAI News",
+          "theme": "llm-platforms",
+          "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+          "hook": "Use 'Helping build shared standards for advanced AI' as the wedge for an ROI benchmark: what improved, what regressed, and whether the workflow is worth scaling.",
+          "match_score": 9
+        }
+      ]
+    },
+    {
+      "offer": "local-ai-lab-audit",
+      "name": "Local AI Lab Audit",
+      "score": 2024.93,
+      "signal_count": 5,
+      "confidence_score": 58.0,
+      "strongest_signal": 16.0,
+      "price": "$499 fixed / $997 with implementation day",
+      "headline": "Find and fix the hidden bottlenecks in your local AI lab in one day.",
+      "target_customer": "Local-AI builders, agencies, researchers, prosumers with Ollama/ComfyUI/GPU workstations",
+      "next_action": "Use this as the first outbound offer; fastest to cash because it matches this workstation exactly.",
+      "sample_signals": [
+        {
+          "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+          "blog": "Hugging Face Blog",
+          "theme": "open-models",
+          "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+          "hook": "Use 'Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel' to argue for a verified local AI lab audit with GPU, model, and service proof instead of another vague stack review.",
+          "match_score": 16
+        },
+        {
+          "title": "We got local models to triage the OpenClaw repo for FREE!*",
+          "blog": "Hugging Face Blog",
+          "theme": "open-models",
+          "url": "https://huggingface.co/blog/local-models-pr-triage",
+          "hook": "Use 'We got local models to triage the OpenClaw repo for FREE!*' to argue for a verified local AI lab audit with GPU, model, and service proof instead of another vague stack review.",
+          "match_score": 14
+        },
+        {
+          "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+          "blog": "OpenAI News",
+          "theme": "llm-platforms",
+          "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+          "hook": "Use 'OpenAI and Broadcom unveil LLM-optimized inference chip' to argue for a verified local AI lab audit with GPU, model, and service proof instead of another vague stack review.",
+          "match_score": 10
+        }
+      ]
+    },
+    {
+      "offer": "ai-command-center-setup",
+      "name": "AI Command Center Setup",
+      "score": 1449.73,
+      "signal_count": 2,
+      "confidence_score": 18.0,
+      "strongest_signal": 9.0,
+      "price": "$297 lifetime template / $29-mo managed checks / $997 done-for-you",
+      "headline": "A local dashboard that tells you what is broken, what to fix first, and what is making money.",
+      "target_customer": "People running Ollama, ComfyUI, Open WebUI, n8n, and GPU boxes locally",
+      "next_action": "Turn current dashboard into demo mode plus screenshot gallery.",
+      "sample_signals": [
+        {
+          "title": "Unlocking the Cloudflare app ecosystem with OAuth for all",
+          "blog": "Cloudflare Blog",
+          "theme": "infra",
+          "url": "https://blog.cloudflare.com/oauth-for-all/",
+          "hook": "Turn 'Unlocking the Cloudflare app ecosystem with OAuth for all' into an operator-dashboard pitch: one control plane for health, routing, alerts, and next actions.",
+          "match_score": 9
+        },
+        {
+          "title": "The post-quantum EO is an important milestone. Now it\u2019s time to get to work",
+          "blog": "Cloudflare Blog",
+          "theme": "infra",
+          "url": "https://blog.cloudflare.com/post-quantum-eo-2026/",
+          "hook": "Turn 'The post-quantum EO is an important milestone. Now it\u2019s time to get to work' into an operator-dashboard pitch: one control plane for health, routing, alerts, and next actions.",
+          "match_score": 9
+        }
+      ]
+    }
+  ]
+}

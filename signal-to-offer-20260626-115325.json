@@ -1,0 +1,158 @@
+{
+  "ts": "20260626-115325",
+  "signal_ts": "20260626-115322",
+  "rankings": [
+    {
+      "offer": "repo-rescue-saas-audit",
+      "name": "SaaS Repo Rescue Audit",
+      "score": 2976.8,
+      "signal_count": 4,
+      "confidence_score": 53.0,
+      "strongest_signal": 24.0,
+      "price": "$499 audit / $1500 fix sprint",
+      "headline": "Find the auth, billing, RLS, webhook, and deployment bugs before customers do.",
+      "target_customer": "Solo SaaS founders and vibe-coded startups with Next.js/Supabase/Stripe repos",
+      "next_action": "Use Hermes repo-fix mode and dashboard verification ledger as proof trail.",
+      "sample_signals": [
+        {
+          "title": "Four travel and hospitality trends from HITEC 2026",
+          "blog": "Stripe Blog",
+          "theme": "billing",
+          "url": "https://stripe.com/blog/trends-from-hitec",
+          "hook": "Hook 'Four travel and hospitality trends from HITEC 2026' into a paid SaaS repo rescue audit aimed at auth, billing, or deployment fragility.",
+          "match_score": 24
+        },
+        {
+          "title": "Agents in the Sandbox",
+          "blog": "Railway Blog",
+          "theme": "saas-dev",
+          "url": "https://blog.railway.com/p/agents-in-the-sandbox",
+          "hook": "Hook 'Agents in the Sandbox' into a paid SaaS repo rescue audit aimed at auth, billing, or deployment fragility.",
+          "match_score": 10
+        },
+        {
+          "title": "State of Railway: Agents",
+          "blog": "Railway Blog",
+          "theme": "saas-dev",
+          "url": "https://blog.railway.com/p/state-of-railway-agents",
+          "hook": "Hook 'State of Railway: Agents' into a paid SaaS repo rescue audit aimed at auth, billing, or deployment fragility.",
+          "match_score": 10
+        }
+      ]
+    },
+    {
+      "offer": "apva-roi-benchmark",
+      "name": "APVA AI ROI Benchmark",
+      "score": 2254.2,
+      "signal_count": 3,
+      "confidence_score": 29.0,
+      "strongest_signal": 11.0,
+      "price": "$199 self-serve / $799 team benchmark",
+      "headline": "Stop guessing whether AI saves time. Measure True Value Yield.",
+      "target_customer": "Teams adopting AI tools, founders, ops leads, educators, AI consultants",
+      "next_action": "Package sample workflow ROI reports and use as lead magnet.",
+      "sample_signals": [
+        {
+          "title": "Which tokens does a hybrid model predict better?",
+          "blog": "Hugging Face Blog",
+          "theme": "open-models",
+          "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+          "hook": "Use 'Which tokens does a hybrid model predict better?' as the wedge for an ROI benchmark: what improved, what regressed, and whether the workflow is worth scaling.",
+          "match_score": 11
+        },
+        {
+          "title": "How agents are transforming work",
+          "blog": "OpenAI News",
+          "theme": "llm-platforms",
+          "url": "https://openai.com/index/how-agents-are-transforming-work",
+          "hook": "Use 'How agents are transforming work' as the wedge for an ROI benchmark: what improved, what regressed, and whether the workflow is worth scaling.",
+          "match_score": 9
+        },
+        {
+          "title": "How Omio is building the future of conversational travel",
+          "blog": "OpenAI News",
+          "theme": "llm-platforms",
+          "url": "https://openai.com/index/omio",
+          "hook": "Use 'How Omio is building the future of conversational travel' as the wedge for an ROI benchmark: what improved, what regressed, and whether the workflow is worth scaling.",
+          "match_score": 9
+        }
+      ]
+    },
+    {
+      "offer": "local-ai-lab-audit",
+      "name": "Local AI Lab Audit",
+      "score": 2024.93,
+      "signal_count": 5,
+      "confidence_score": 58.0,
+      "strongest_signal": 16.0,
+      "price": "$499 fixed / $997 with implementation day",
+      "headline": "Find and fix the hidden bottlenecks in your local AI lab in one day.",
+      "target_customer": "Local-AI builders, agencies, researchers, prosumers with Ollama/ComfyUI/GPU workstations",
+      "next_action": "Use this as the first outbound offer; fastest to cash because it matches this workstation exactly.",
+      "sample_signals": [
+        {
+          "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+          "blog": "Hugging Face Blog",
+          "theme": "open-models",
+          "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+          "hook": "Use 'Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel' to argue for a verified local AI lab audit with GPU, model, and service proof instead of another vague stack review.",
+          "match_score": 16
+        },
+        {
+          "title": "Run a vLLM Server on HF Jobs in One Command",
+          "blog": "Hugging Face Blog",
+          "theme": "open-models",
+          "url": "https://huggingface.co/blog/vllm-jobs",
+          "hook": "Use 'Run a vLLM Server on HF Jobs in One Command' to argue for a verified local AI lab audit with GPU, model, and service proof instead of another vague stack review.",
+          "match_score": 14
+        },
+        {
+          "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+          "blog": "OpenAI News",
+          "theme": "llm-platforms",
+          "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+          "hook": "Use 'OpenAI and Broadcom unveil LLM-optimized inference chip' to argue for a verified local AI lab audit with GPU, model, and service proof instead of another vague stack review.",
+          "match_score": 10
+        }
+      ]
+    },
+    {
+      "offer": "ai-command-center-setup",
+      "name": "AI Command Center Setup",
+      "score": 1618.73,
+      "signal_count": 3,
+      "confidence_score": 31.0,
+      "strongest_signal": 13.0,
+      "price": "$297 lifetime template / $29-mo managed checks / $997 done-for-you",
+      "headline": "A local dashboard that tells you what is broken, what to fix first, and what is making money.",
+      "target_customer": "People running Ollama, ComfyUI, Open WebUI, n8n, and GPU boxes locally",
+      "next_action": "Turn current dashboard into demo mode plus screenshot gallery.",
+      "sample_signals": [
+        {
+          "title": "How we built saga rollbacks for Cloudflare Workflows",
+          "blog": "Cloudflare Blog",
+          "theme": "infra",
+          "url": "https://blog.cloudflare.com/rollbacks-for-workflows/",
+          "hook": "Turn 'How we built saga rollbacks for Cloudflare Workflows' into an operator-dashboard pitch: one control plane for health, routing, alerts, and next actions.",
+          "match_score": 13
+        },
+        {
+          "title": "Unlocking the Cloudflare app ecosystem with OAuth for all",
+          "blog": "Cloudflare Blog",
+          "theme": "infra",
+          "url": "https://blog.cloudflare.com/oauth-for-all/",
+          "hook": "Turn 'Unlocking the Cloudflare app ecosystem with OAuth for all' into an operator-dashboard pitch: one control plane for health, routing, alerts, and next actions.",
+          "match_score": 9
+        },
+        {
+          "title": "The post-quantum EO is an important milestone. Now it\u2019s time to get to work",
+          "blog": "Cloudflare Blog",
+          "theme": "infra",
+          "url": "https://blog.cloudflare.com/post-quantum-eo-2026/",
+          "hook": "Turn 'The post-quantum EO is an important milestone. Now it\u2019s time to get to work' into an operator-dashboard pitch: one control plane for health, routing, alerts, and next actions.",
+          "match_score": 9
+        }
+      ]
+    }
+  ]
+}

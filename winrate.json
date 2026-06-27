@@ -1,0 +1,12 @@
+{
+  "ts": "20260627-000159",
+  "window_days": 7,
+  "ranking_runs": 18,
+  "win_rate": [
+    {
+      "offer": "repo-rescue-saas-audit",
+      "top1_count": 18,
+      "win_rate": 100.0
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "ts": "20260627-000159",
+  "window_days": 7,
+  "scout_runs": 22,
+  "feed_count": 6,
+  "prune_candidates": 0,
+  "feeds": [
+    {
+      "blog": "Hugging Face Blog",
+      "signal_count_7d": 93,
+      "yield_score": 4.2273,
+      "last_seen": "2026-06-27 00:01 UTC",
+      "action": "keep"
+    },
+    {
+      "blog": "OpenAI News",
+      "signal_count_7d": 72,
+      "yield_score": 3.2727,
+      "last_seen": "2026-06-27 00:01 UTC",
+      "action": "keep"
+    },
+    {
+      "blog": "Cloudflare Blog",
+      "signal_count_7d": 59,
+      "yield_score": 2.6818,
+      "last_seen": "2026-06-27 00:01 UTC",
+      "action": "keep"
+    },
+    {
+      "blog": "Railway Blog",
+      "signal_count_7d": 55,
+      "yield_score": 2.5,
+      "last_seen": "2026-06-27 00:01 UTC",
+      "action": "keep"
+    },
+    {
+      "blog": "Netlify Changelog",
+      "signal_count_7d": 29,
+      "yield_score": 1.3182,
+      "last_seen": "2026-06-27 00:01 UTC",
+      "action": "keep"
+    },
+    {
+      "blog": "Stripe Blog",
+      "signal_count_7d": 22,
+      "yield_score": 1.0,
+      "last_seen": "2026-06-27 00:01 UTC",
+      "action": "keep"
+    }
+  ]
+}
